@@ -1,0 +1,41 @@
+{
+  "name": "react-name-initials-avatar",
+  "version": "0.0.7",
+  "description": "Creating Stylish Initial-Based Avatars in React",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "rollup": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surbhidighe/react-name-initials-avatar"
+  },
+  "keywords": [
+    "component",
+    "reactjs",
+    "react",
+    "react-component",
+    "name-avatar",
+    "initials-avatar",
+    "react-name-initials-avatar"
+  ],
+  "homepage": "https://github.com/surbhidighe/react-name-initials-avatar",
+  "author": "Surbhi Dighe",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.4",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "@rollup/plugin-typescript": "^11.1.2",
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "rollup": "^3.28.1",
+    "rollup-plugin-dts": "^6.0.0",
+    "tslib": "^2.6.2",
+    "typescript": "^5.2.2"
+  }
+}
