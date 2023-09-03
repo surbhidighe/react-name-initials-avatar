@@ -1,8 +1,6 @@
 # react-name-initials-avatar
 
-
-[npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/react-name-initials-avatar
+Npm Package Url - https://www.npmjs.com/package/react-name-initials-avatar
 
 The react-name-initials-avatar is a lightweight and customizable React component that generates avatars based on user names or initials. This component is ideal for user profile displays, comment sections, or any application where you want to visually represent users with avatars.
 
