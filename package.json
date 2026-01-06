@@ -1,6 +1,6 @@
 {
   "name": "react-name-initials-avatar",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Creating Stylish Initial-Based Avatars in React",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
