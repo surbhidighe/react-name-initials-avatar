@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run rollup:*)",
+      "Bash(npm install)"
+    ]
+  }
+}
